@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(https://github.com/peyton-mazza/simplesite/blob/main/assets/img/peytonpic%20(1).jpgraw=true) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(https://github.com/peyton-mazza/simplesite/blob/main/assets/img/peytonpic.jpg?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
